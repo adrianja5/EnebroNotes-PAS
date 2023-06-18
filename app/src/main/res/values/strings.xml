@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EnebroNotes</string>
+    <string name="home_screen_title">Home</string>
+    <string name="sign_up_screen_title">Sign up</string>
+    <string name="sign_up_weak_password_message">Weak password</string>
+    <string name="unknown_fail_message">Unknown error</string>
+    <string name="sign_in_screen_title">Sign in</string>
+    <string name="home_screen_main_floating_action_button_desc">Create new note or folder</string>
+    <string name="create_new_note_desc">Create new note</string>
+    <string name="create_new_folder_desc">Create new folder</string>
+    <string name="default_title">Default title</string>
+    <string name="someone_is_writing">%1$s is writing…</string>
+    <string name="take_photo_desc">Take a photo</string>
+    <string name="get_photo_gallery_dec">Get a photo from the gallery</string>
+    <string name="get_gif_tenor_dec">Get a GIF from Tenor</string>
+    <string name="delete_cell_dec">Delete the cell</string>
+    <string name="note_editor_screen_title">Note editor</string>
+    <string name="create_new_cell_desc">Create new cell</string>
+    <string name="create_new_note_title">New note</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="create_note">Create note</string>
+    <string name="select_folder">Select folder</string>
+    <string name="update_folder_title">Update Folder</string>
+    <string name="share_note">Share Note</string>
+    <string name="media_desc">Cell media</string>
+    <string name="untitled_note">Untitled</string>
+    <string name="tenor_gifs">Tenor GIFs</string>
+    <string name="search_desc">Search</string>
+</resources>

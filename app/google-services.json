@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "88896058557",
+    "firebase_url": "https://enebro-pruebas-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "enebro-pruebas",
+    "storage_bucket": "enebro-pruebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88896058557:android:1102072ef586278a2633d4",
+        "android_client_info": {
+          "package_name": "com.example.enebronotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88896058557-bq34gn32ce3q6d9kbbfb6259if26lm58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbki12FcpqOjcFJDKtj943gst-pheiUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88896058557-bq34gn32ce3q6d9kbbfb6259if26lm58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88896058557:android:f5f76ac6c49c634c2633d4",
+        "android_client_info": {
+          "package_name": "com.example.enebronotespruebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88896058557-bq34gn32ce3q6d9kbbfb6259if26lm58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbki12FcpqOjcFJDKtj943gst-pheiUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88896058557-bq34gn32ce3q6d9kbbfb6259if26lm58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
